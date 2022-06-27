@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkquiz_app=self.webpackChunkquiz_app||[]).push([[563],{563:function(u,e,n){n.r(e);n(2791);var i=n(184);e.default=function(){return(0,i.jsx)("div",{children:"Index"})}}}]);
+//# sourceMappingURL=563.a50e62ba.chunk.js.map
